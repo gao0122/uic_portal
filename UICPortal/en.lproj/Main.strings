@@ -1,0 +1,54 @@
+
+/* Class = "UITabBarItem"; title = "UIC"; ObjectID = "5Cj-0Q-HTQ"; */
+"5Cj-0Q-HTQ.title" = "UIC";
+
+/* Class = "UIButton"; normalTitle = "Refresh"; ObjectID = "7wl-HY-zIp"; */
+"7wl-HY-zIp.normalTitle" = "Refresh";
+
+/* Class = "UIViewController"; title = "MIS"; ObjectID = "8rJ-Kc-sve"; */
+"8rJ-Kc-sve.title" = "MIS";
+
+/* Class = "UIViewController"; title = "Me"; ObjectID = "9pv-A4-QxB"; */
+"9pv-A4-QxB.title" = "Me";
+
+/* Class = "UIButton"; normalTitle = "Save to album"; ObjectID = "Clp-fN-TDt"; */
+"Clp-fN-TDt.normalTitle" = "Save to album";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "JQO-SW-KPx"; */
+"JQO-SW-KPx.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "TiL-FY-jp3"; */
+"TiL-FY-jp3.normalTitle" = "Login";
+
+/* Class = "UITabBarItem"; title = "iSpace"; ObjectID = "U2m-eX-IYu"; */
+"U2m-eX-IYu.title" = "iSpace";
+
+/* Class = "UIViewController"; title = "Yc"; ObjectID = "VOe-P4-NKn"; */
+"VOe-P4-NKn.title" = "Yc";
+
+/* Class = "UILabel"; text = "Coming soon."; ObjectID = "XPp-37-YS8"; */
+"XPp-37-YS8.text" = "Coming soon.";
+
+/* Class = "UILabel"; text = "Yuchao"; ObjectID = "YIg-XY-o1Q"; */
+"YIg-XY-o1Q.text" = "Yuchao";
+
+/* Class = "UITabBarItem"; title = "Me"; ObjectID = "acW-dT-cKf"; */
+"acW-dT-cKf.title" = "Me";
+
+/* Class = "UITabBarItem"; title = "MIS"; ObjectID = "cPa-gy-q4n"; */
+"cPa-gy-q4n.title" = "MIS";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "h6t-pd-KXA"; */
+"h6t-pd-KXA.placeholder" = "Password";
+
+/* Class = "UITextField"; placeholder = "User Name"; ObjectID = "jKo-lH-yr3"; */
+"jKo-lH-yr3.placeholder" = "User Name";
+
+/* Class = "UIViewController"; title = "iSpace"; ObjectID = "wfY-B3-gLL"; */
+"wfY-B3-gLL.title" = "iSpace";
+
+/* Class = "UILabel"; text = "Hello, UIC!"; ObjectID = "zEq-FU-wV5"; */
+"zEq-FU-wV5.text" = "Hello, UIC!";
+
+/* Class = "UIButton"; normalTitle = "Save changes"; ObjectID = "zzz-4J-wgX"; */
+"zzz-4J-wgX.normalTitle" = "Save changes";
